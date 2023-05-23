@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "brians-mbp",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/XZuQPvhMyh3POnFa3AgkfsMnRHcaDLPqIJWs7EUkuvhn148Log",
+  "gitHubUrl": "https://github.com/bzhu9/chess-game-review-site",
+  "workFolder": "_work"
+}
