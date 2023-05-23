@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  main:
+    build: .
+    container_name: bot
+    volumes:
+      - /Users/brianzhu/Documents/chess-game-review-site/bot-data:/data
+    environment:
+      - TOKEN
